@@ -1,0 +1,178 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
+  <diagram id="framework1" name="Page-1">
+    <mxGraphModel dx="1763" dy="3540" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s91tsR-xnZIt8vnF08gZ-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1375894331315355;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="1167" width="1294" x="27" y="-7" as="geometry" />
+        </mxCell>
+        <mxCell id="s91tsR-xnZIt8vnF08gZ-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="259" width="1293" x="27" y="901" as="geometry" />
+        </mxCell>
+        <mxCell id="s91tsR-xnZIt8vnF08gZ-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="130" width="1293" x="27" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s91tsR-xnZIt8vnF08gZ-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="610" width="1293" x="27" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="left1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d9ecf3;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="价值指向" vertex="1">
+          <mxGeometry height="129" width="53" x="27" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="right1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d9ecf3;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="目标" vertex="1">
+          <mxGeometry height="129" width="40" x="1280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="left2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e7c0c0;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="核心内涵" vertex="1">
+          <mxGeometry height="612" width="53" x="27" y="289" as="geometry" />
+        </mxCell>
+        <mxCell id="right2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e7c0c0;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="核心" vertex="1">
+          <mxGeometry height="612" width="40" x="1280" y="289" as="geometry" />
+        </mxCell>
+        <mxCell id="left3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfe9c9;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="外部依据" vertex="1">
+          <mxGeometry height="256" width="53" x="27" y="901" as="geometry" />
+        </mxCell>
+        <mxCell id="right3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfe9c9;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="基础" vertex="1">
+          <mxGeometry height="260" width="40" x="1280" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="goal1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfeef5;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="保障能源安全" vertex="1">
+          <mxGeometry height="54" width="319" x="115" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="goal2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfeef5;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="支撑绿色转型" vertex="1">
+          <mxGeometry height="54" width="289" x="541" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="goal3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfeef5;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="塑造发展新优势" vertex="1">
+          <mxGeometry height="54" width="290" x="934" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="sec1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="193" width="1144" x="106" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="sec1label" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfb7b7;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="具体内涵" vertex="1">
+          <mxGeometry height="193" width="43" x="106" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="upperdash" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#ecd7d7;strokeColor=#000000;fontSize=21;align=center;verticalAlign=top;spacingTop=12;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="国家电网公司高水平科技自立自强的概念界定" vertex="1">
+          <mxGeometry height="161" width="1055" x="182" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="u1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="以国家战略&#xa;需求为牵引" vertex="1">
+          <mxGeometry height="87" width="159" x="232" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="u2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="以关键领域自&#xa;主可控为基础" vertex="1">
+          <mxGeometry height="87" width="177" x="492" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="u3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="以体系化创新&#xa;能力为支撑" vertex="1">
+          <mxGeometry height="87" width="175" x="750" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="u4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="以前瞻性战略&#xa;引领为目标" vertex="1">
+          <mxGeometry height="87" width="177" x="1020" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="306" width="1144" x="106" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2label" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dfb7b7;strokeColor=#000000;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="内在逻辑" vertex="1">
+          <mxGeometry height="306" width="43" x="106" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#ecd7d7;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="273" width="316" x="182" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1v" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cecc;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1;glass=0;rounded=1;shadow=1;" value="创新安全" vertex="1">
+          <mxGeometry height="170" width="38" x="201" y="633" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1a" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="安全逻辑" vertex="1">
+          <mxGeometry height="42" width="163" x="256" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1b" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="核心技术" vertex="1">
+          <mxGeometry height="42" width="163" x="256" y="662" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1c" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="装备系统" vertex="1">
+          <mxGeometry height="42" width="163" x="256" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="lg1d" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="安全支撑" vertex="1">
+          <mxGeometry height="42" width="163" x="256" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#ecd7d7;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="273" width="332" x="541" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2v" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cecc;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1;glass=0;rounded=1;shadow=1;" value="创新价值" vertex="1">
+          <mxGeometry height="170" width="38" x="560" y="633" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2a" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="发展逻辑" vertex="1">
+          <mxGeometry height="42" width="195" x="615" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2b" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="创新链条" vertex="1">
+          <mxGeometry height="42" width="195" x="615" y="662" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2c" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="系统集成" vertex="1">
+          <mxGeometry height="42" width="195" x="615" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="lg2d" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="协同创新" vertex="1">
+          <mxGeometry height="42" width="195" x="615" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#ecd7d7;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="273" width="330" x="903" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3v" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cecc;rotation=0;fontSize=21;align=center;verticalAlign=middle;textDirection=vertical-lr;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1;glass=0;rounded=1;shadow=1;" value="创新竞争" vertex="1">
+          <mxGeometry height="170" width="38" x="922" y="633" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3a" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="未来逻辑" vertex="1">
+          <mxGeometry height="42" width="196" x="976" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3b" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="原创突破" vertex="1">
+          <mxGeometry height="42" width="196" x="976" y="662" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3c" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="前瞻布局" vertex="1">
+          <mxGeometry height="42" width="196" x="976" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="lg3d" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="规则塑造" vertex="1">
+          <mxGeometry height="42" width="196" x="976" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#eff6df;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="163" width="372" x="95" y="963" as="geometry" />
+        </mxCell>
+        <mxCell id="b1v" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;rotation=0;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="国家战略要求" vertex="1">
+          <mxGeometry height="118" width="34" x="103" y="983" as="geometry" />
+        </mxCell>
+        <mxCell id="b1a" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="高水平科技自立自强" vertex="1">
+          <mxGeometry height="42" width="239" x="145" y="979" as="geometry" />
+        </mxCell>
+        <mxCell id="b1b" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="国家战略科技力量" vertex="1">
+          <mxGeometry height="42" width="239" x="145" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="b1c" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="能源安全与发展主动权" vertex="1">
+          <mxGeometry height="42" width="239" x="145" y="1071" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#eff6df;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="163" width="375" x="495" y="963" as="geometry" />
+        </mxCell>
+        <mxCell id="b2v" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;rotation=0;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="企业创新规律" vertex="1">
+          <mxGeometry height="118" width="34" x="503" y="983" as="geometry" />
+        </mxCell>
+        <mxCell id="b2a" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="企业是创新主体" vertex="1">
+          <mxGeometry height="42" width="255" x="548" y="979" as="geometry" />
+        </mxCell>
+        <mxCell id="b2b" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="创新是系统过程" vertex="1">
+          <mxGeometry height="42" width="255" x="548" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="b2c" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="资源整合与生态带动" vertex="1">
+          <mxGeometry height="42" width="255" x="548" y="1071" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" parent="1" style="rounded=1;arcSize=12;dashed=1;dashPattern=8 8;whiteSpace=wrap;html=1;fillColor=#eff6df;strokeColor=#000000;fontSize=21;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="163" width="346" x="899" y="963" as="geometry" />
+        </mxCell>
+        <mxCell id="b3v" parent="1" style="whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;rotation=0;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="电力行业特征" vertex="1">
+          <mxGeometry height="118" width="34" x="907" y="983" as="geometry" />
+        </mxCell>
+        <mxCell id="b3a" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="大电网、大系统、大场景" vertex="1">
+          <mxGeometry height="42" width="248" x="951" y="979" as="geometry" />
+        </mxCell>
+        <mxCell id="b3b" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="系统耦合强" vertex="1">
+          <mxGeometry height="42" width="248" x="951" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="b3c" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=21;align=center;verticalAlign=middle;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;fontStyle=1" value="公共属性强" vertex="1">
+          <mxGeometry height="42" width="248" x="951" y="1071" as="geometry" />
+        </mxCell>
+        <mxCell id="s91tsR-xnZIt8vnF08gZ-4" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=33;fontStyle=1;fontFamily=fangsong;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfangsong;strokeColor=none;" value="国家电网公司&lt;br&gt;高水平科技自立自强概念内涵" vertex="1">
+          <mxGeometry height="70" width="590" x="370" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
